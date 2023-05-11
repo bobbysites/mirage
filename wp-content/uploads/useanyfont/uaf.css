@@ -1,0 +1,36 @@
+				@font-face {
+					font-family: 'gothaprolig';
+					src: url('/wp-content/uploads/useanyfont/170517093149GothaProLig.woff') format('woff');
+					font-display: auto;
+				}
+
+				.gothaprolig{font-family: 'gothaprolig' !important;}
+
+						@font-face {
+					font-family: 'gothampro-bold';
+					src: url('/wp-content/uploads/useanyfont/170612121625GothamPro-Bold.woff') format('woff');
+					font-display: auto;
+				}
+
+				.gothampro-bold{font-family: 'gothampro-bold' !important;}
+
+						@font-face {
+					font-family: 'gothampro';
+					src: url('/wp-content/uploads/useanyfont/170613074932gothampro.woff') format('woff');
+					font-display: auto;
+				}
+
+				.gothampro{font-family: 'gothampro' !important;}
+
+						@font-face {
+					font-family: 'gothampromed';
+					src: url('/wp-content/uploads/useanyfont/170613101819gothampromed.woff') format('woff');
+					font-display: auto;
+				}
+
+				.gothampromed{font-family: 'gothampromed' !important;}
+
+						body{
+					font-family: 'gothaprolig' !important;
+				}
+		
